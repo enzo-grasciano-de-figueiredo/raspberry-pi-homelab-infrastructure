@@ -1,0 +1,6 @@
+.env
+.env.local
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
