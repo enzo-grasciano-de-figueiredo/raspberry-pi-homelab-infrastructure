@@ -11,6 +11,17 @@
 
 ---
 
+## 📸 Arquitetura Física & Cluster Homelab
+
+<p align="center">
+  <img src="./docs/homelab_rpi5_hero.jpg" width="85%" alt="Hardware do Homelab Raspberry Pi 5 com NVMe e Docker" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+  <br />
+  <strong>Micro-Servidor Raspberry Pi 5 (8GB) com Armazenamento NVMe PCIe:</strong><br />
+  <em>Orquestração de 13 microsserviços em containers Docker, segurança Zero Trust via Cloudflare Tunnels e túneis VPN WireGuard.</em>
+</p>
+
+---
+
 ## 🗺️ Mapa de Serviços & Arquitetura de Rede
 
 ```
