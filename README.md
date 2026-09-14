@@ -7,6 +7,8 @@
 
 > **Infraestrutura autônoma de servidores domésticos (Homelab)** orquestrada com Docker Compose sobre um Raspberry Pi 5 com boot e armazenamento em SSD NVMe de alta velocidade. O ambiente opera 13 microsserviços integrados cobrindo rede privada, segurança Zero Trust, banco de dados, mensageria e automação de processos.
 
+> 🤖 **Nota de Transparência**: A documentação técnica, diagramas de rede e estruturação deste repositório foram gerados/organizados de forma automatizada com assistência de Inteligência Artificial (Google DeepMind Antigravity / Gemini), com base na arquitetura, configurações de Docker e infraestrutura física desenvolvida pelo autor.
+
 ---
 
 ## 🗺️ Mapa de Serviços & Arquitetura de Rede
